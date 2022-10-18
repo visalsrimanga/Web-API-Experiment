@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#output{
+    position: fixed;
+    height: 75px;
+    background-color: lightyellow;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+#text{
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: red
+}
+
+#blinker{
+    height: 2rem;
+    width: 8px;
+    background-color: red;
+    animation-name: blink;
+    animation-duration: 0.5s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes blink{
+    from{
+        opacity: 1;
+    }
+    70%{
+        opacity: 1;
+    }
+    to{
+        opacity: 0;
+    }
+}
