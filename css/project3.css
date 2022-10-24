@@ -11,7 +11,7 @@ body {
 #output {
   position: fixed;
   height: 75px;
-  background-color: lightyellow;
+  background-color: #0b9eb0;
   top: 50%;
   transform: translateY(-50%);
   left: 0;
@@ -23,13 +23,13 @@ body {
 }
 
 #text {
-  font-size: 1.8rem;
+  font-size: 2.8rem;
   font-weight: bold;
-  color: red;
+  color: white;
 }
 
 #blinker {
-  height: 2rem;
+  height: 3rem;
   width: 8px;
   background-color: red;
   animation-name: blink;

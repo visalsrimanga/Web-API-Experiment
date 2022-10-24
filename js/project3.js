@@ -1,4 +1,4 @@
-const input = ["This is my first text!", "This is second!", "Third!"];
+const input = ["I am Visal Srimanga", "Passionate Full Stack Software Engineer", "From Sri Lanka"];
 
 const text = document.getElementById('text');
 
