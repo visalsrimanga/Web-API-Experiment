@@ -1,4 +1,4 @@
-# Mini Game Web App with JS
+# Web API Experiment Project (JS Animations)
 
 Developed an animation website by using JavaScript. It offers to
 combine the advantages of JavaScript-based animations and CSS
@@ -11,7 +11,7 @@ Transitions/Animations.
 
 ### Installation
 
-1. Clone the repo `git clone https://github.com/visalsrimanga/Mini-Game-Web-App.git`
+1. Clone the repo `git clone https://github.com/visalsrimanga/Web-API-Experiment.git`
 2. Open using vscode for further develop
 
 ### Demo
@@ -19,7 +19,7 @@ Transitions/Animations.
 * [Click here](https://visalsrimanga.github.io/Web-API-Experiment/) to see the demo website.
 
 ### version
-1.0.0
+v1.0.0
 
 ### Licence
 Copyright &copy; 2022 Visal Srimanga. All Right Reserved.<br>
