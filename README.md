@@ -21,7 +21,7 @@ Transitions/Animations.
 ### version
 v1.0.0
 
-### Licence
+### License
 Copyright &copy; 2022 Visal Srimanga. All Right Reserved.<br>
 This project is licensed under the [MIT License](LICENSE.txt)
 
