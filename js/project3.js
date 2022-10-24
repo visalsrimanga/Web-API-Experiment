@@ -1,5 +1,4 @@
-const input = ["I love you manika", "I love you Dulanji"];
-// const input = ["I am Visal Srimanga", "Passionate Full Stack Software Engineer", "From Sri Lanka"];
+const input = ["I am Visal Srimanga", "Passionate Full Stack Software Engineer", "From Sri Lanka"];
 
 const text = document.getElementById('text');
 
